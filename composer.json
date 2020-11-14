@@ -1,0 +1,16 @@
+{
+    "name": "arllan/exemplo-lib",
+    "description": "Projeto que busca os cursos no site da Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Arllan Pablo",
+            "email": "arllanpablo@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\":"classes/"
+        }
+    }
+}
